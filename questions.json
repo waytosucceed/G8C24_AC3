@@ -1,0 +1,222 @@
+[
+  {
+      "questionNo": "Q1.",
+      "question": "Which resource is predominantly used to find synonyms and antonyms?",
+      "options": [
+          "Dictionary",
+          "Thesaurus",
+          "Word book",
+          "Encyclopedia"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q2.",
+      "question": "The Thesaurus is also known as a:",
+      "options": [
+          "Book of synonyms",
+          "Book of antonyms",
+          "Dictionary of synonyms",
+          "Dictionary of Antonyms"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q3.",
+      "question": "Which one do we find in a Thesaurus:",
+      "options": [
+          "Synonyms: Strongest, Strong, Weak matches",
+          "Antonyms: Strongest, Strong, Weak opposites",
+          "Both A and B",
+          "None of the above"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q4.",
+      "question": "Choose the correct option: The company is in …………………… problem.",
+      "options": [
+          "Massive",
+          "Large",
+          "Magnanimous",
+          "Big"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q5.",
+      "question": "Choose the strongest and weak match for the word ‘delay’.",
+      "options": [
+          "Jam and stall",
+          "Stoppage and detention",
+          "Both A and B",
+          "Lag and hold up"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q6.",
+      "question": "Select the word which is closest in meaning to the given word: ADJOURN",
+      "options": [
+          "Hasten",
+          "Halt",
+          "Conceive",
+          "Postpone"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q7.",
+      "question": "Select the opposite of Accurate:",
+      "options": [
+          "Precise",
+          "Definite",
+          "Brief",
+          "Both A and B"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q8.",
+      "question": "Which word is NOT an antonym of ‘Congested’?",
+      "options": [
+          "Crowded",
+          "Overfull",
+          "Fulfilled",
+          "Full"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q9.",
+      "question": "Which is NOT a synonym of the word ‘Mercy’?",
+      "options": [
+          "Benevolence",
+          "Correspondence",
+          "Assurance",
+          "Both B and C"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q10.",
+      "question": "‘Apparition’ is a synonym of;",
+      "options": [
+          "Witch",
+          "Spectre",
+          "Notion",
+          "Dream"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q11.",
+      "question": "‘Grievance’ is an antonym of:",
+      "options": [
+          "Delight",
+          "Affliction",
+          "Beef",
+          "Resentment"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q12.",
+      "question": "‘Surrender’ is NOT the antonym of:",
+      "options": [
+          "Abdication",
+          "Submission",
+          "Renunciation",
+          "All of the above"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q13.",
+      "question": "‘Merge’ is the antonym of",
+      "options": [
+          "Consolidate",
+          "Disperse",
+          "Fuse",
+          "Incorporate"
+      ],
+      "correct": 1
+  },
+  {
+      "questionNo": "Q14.",
+      "question": "The synonym(s) of ‘cosmos’ are:",
+      "options": [
+          "Organisation",
+          "Macrocosm",
+          "Both A and B",
+          "Evolution"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q15.",
+      "question": "The weak opposites of ‘brute’ are:",
+      "options": [
+          "Weak",
+          "Humanitarian",
+          "Both A and B",
+          "Wicked"
+      ],
+      "correct": 2
+  },
+  {
+      "questionNo": "Q16.",
+      "question": "The strongest matches of ‘Dupe’ are:",
+      "options": [
+          "Patsy",
+          "Sitting duck",
+          "Bamboozle",
+          "All of the above"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q17.",
+      "question": "The weak opposite for ‘Solitude’ could be:",
+      "options": [
+          "Togetherness",
+          "Companionship",
+          "Friendship",
+          "All of the above"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q18.",
+      "question": "Which word is NOT an antonym of ‘Distraught’?",
+      "options": [
+          "Distressed",
+          "Perturbed",
+          "Agitated",
+          "All of the above"
+      ],
+      "correct": 3
+  },
+  {
+      "questionNo": "Q19.",
+      "question": "Which is NOT a synonym of the word ‘Gaunt’?",
+      "options": [
+          "Fat",
+          "Emaciated",
+          "Thin",
+          "Angular"
+      ],
+      "correct": 0
+  },
+  {
+      "questionNo": "Q20.",
+      "question": "The strongest matches for ‘Conceived’ are:",
+      "options": [
+          "Set up",
+          "Founded",
+          "Initiated",
+          "All of the above"
+      ],
+      "correct": 3
+  }
+]
